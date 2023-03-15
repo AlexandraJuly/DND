@@ -111,6 +111,7 @@ footer {
 .fb {
     background-image: url(images/b5339c8ae02ad582a99d0de2f47b6f99.png);
     background-size: 58px;
+    margin-right: 20px;
 }
 
 .inst:hover {
@@ -121,6 +122,7 @@ footer {
 .inst {
     background-image: url(images/0fd15c371d5e91209b45b03de2fb2ce7.png);
     background-size: 59px;
+    margin-right: 20px;
 }
 
 
@@ -137,7 +139,6 @@ footer {
 .logoMin {
     height: 59px;
     width: 58px;
-    margin-right: 20px;
     margin-top: 22px;
 }
 
