@@ -1,3 +1,5 @@
+
+
 body {
     background-color:#14050F;
     display: flex;
@@ -50,15 +52,6 @@ header {
     margin: 0 auto;
 }
 
-@font-face {
-    font-family: "Gill Sans MT";
-    src: url("fonts/gillsansmt-webfont.woff2") format("woff2"),
-    url("fonts/gillsansmt-webfont.woff") format("woff"); 
-    font-style: Regular;
-    font-size: 14px;
-    line-height: 100%;
-    }
-
 .text {
     font-family: Gill Sans MT;
     font-weight: 400;
@@ -74,27 +67,30 @@ header {
 
 .btn:hover {
     background-color:#1E0712;
+    color: #FFF8ED;
 }
 
 .btn {
+    color: black;
+    font-family: 'Inter';
     border-width: 1px;
     border-style: solid;
     border-color:#DA9D46;
     background-color:#fff8ed;
     border-radius: 100px;
     width: 350px;
-    padding: 20px 0;
-    text-align: center;
+    padding: 17px 0;
     margin-bottom: 16px;
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
 }
 
 a {
     text-decoration: none;
-}
-
-.btnT {
-    color: black;
-    font-family: 'Inter', sans-serif;
 }
 
 footer {
