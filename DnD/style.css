@@ -285,7 +285,7 @@ a {
     .logo {
         height: 145px;
         width: 145px;
-        margin-top: 80px;
+        margin-top: 40px;
     }
 
     .logo2 {
@@ -330,6 +330,6 @@ a {
     }
 
     .footer {
-        margin-bottom: 80px;
+        margin-bottom: 40px;
     }
 }
